@@ -6,4 +6,4 @@ Check out my [profile](https://www.beecrowd.com.br/judge/en/profile/673663) and 
 
 ## MIT License
 
-This project is available under the MIT License. Read the LICENSE file for more info.
+This project is available under the MIT License. Read the [LICENSE](LICENSE) file for more info.
